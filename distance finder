@@ -1,2 +1,6 @@
                                                                   Ultrasonic distance finder using ATMEGA328p
 Here ultrasonic is interfacing with 8051 Microcontroller to find the range of objects. HC-SR04 is an ultrasonic ranging module designed for embedded projects like this.
+
+Theory :
+In this project, we're gonna post some snaps of the connection with arduino uno with microprocessor atmega328p and the code to run the following project.
+Unfortunately, we can't add the comments as it make it looks like copied code :)
