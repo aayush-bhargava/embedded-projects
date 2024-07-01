@@ -17,6 +17,9 @@
 
 - ⚡ Fun fact **i can make something move just with my skills. lol**
 
+- Also, my Tinkercad Profile link is mentioned to see my all other small projects online as well.
+- Tinkercad : https://www.tinkercad.com/users/91NkU8CeNkv
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
